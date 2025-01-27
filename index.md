@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Mike Atherton's blog
 ---
 
